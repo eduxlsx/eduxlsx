@@ -12,14 +12,6 @@
 
 <p align="left">Hello, my name is Eduardo Bernardi and I am a photographer and designer. studying Systems Development and Analysis, which allows me to combine theoretical and practical knowledge to enhance my skills as a developer. I have a great passion for programming and its creative power, and I am always seeking personal and professional development. <br><br>I currently work with:<br>-Work at: @pj.produtora</p>
 
-<h2 align="left">Social Media</h2>
-
-[![Linkedlin](https://img.shields.io/badge/LinkedIn-EE82EE?style=for-the-badge&logo=linkedin&logoColor=white)]()
-[![Instagran](https://img.shields.io/badge/Instagram-EE82EE?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com/reel/C5yEWABu9C0/](https://www.instagram.com/edu.xlsx?igsh=MTk3cXh0MzJkMTlhbQ%3D%3D&utm_source=qr))
-
-
-
-
 <h2 align="left">Stats</h2>
 
 <div align="center">
