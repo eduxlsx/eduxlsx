@@ -40,7 +40,7 @@
 
 <p align="centre"><b>Visitors Count</b></p> 
   
-<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Feduxlsx&s=50&c=EE82EE&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" /></p> 
+<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Feduxlsx&s=50&c=5368d9&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" /></p> 
 <br>
 </div>
 
@@ -49,4 +49,4 @@
 <h3>Thank you for your visit, enjoy and follow me!</h3>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=EE82EE&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5368d9&height=120&section=footer"/>
