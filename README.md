@@ -20,7 +20,7 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado:
 </p>
 
 
-### � Minhas Contribuições no GitHub
+###  Minhas Contribuições no GitHub
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/eduxlsx/eduxlsx/output/github-contribution-grid-snake.svg" alt="snake animation" />
