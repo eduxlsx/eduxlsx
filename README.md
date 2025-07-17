@@ -18,3 +18,10 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado:
     <img src="https://skillicons.dev/icons?i=php,laravel,js,nodejs,react,dart,flutter,mysql,postgres,git" />
   </a>
 </p>
+
+
+### � Minhas Contribuições no GitHub
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/eduxlsx/eduxlsx/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
