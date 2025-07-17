@@ -1,16 +1,20 @@
-## Hi there 👋
+#  Olá, eu sou o Eduardo!
 
-<!--
-**eduxlsx/eduxlsx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="right" height="150" src="https://github-readme-stats.vercel.app/api?username=eduxlsx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="right" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduxlsx&layout=compact&langs_count=7&theme=dracula"/>
+</a>
 
-Here are some ideas to get you started:
+Desenvolvedor focado na criação de soluções inovadoras e eficientes. Tenho experiência com tecnologias web e mobile, sempre buscando aprender e aplicar as melhores práticas do mercado.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Minhas Habilidades
+
+Aqui estão algumas das tecnologias com as quais tenho trabalhado:
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,laravel,js,nodejs,react,dart,flutter,mysql,postgres,git" />
+  </a>
+</p>
