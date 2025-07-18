@@ -24,46 +24,46 @@
 While most of my professional work isn't on public repositories, I have extensive experience in developing a variety of solutions, including:
 
 - **📈 Business Management Systems (ERP):** Building comprehensive systems to manage resources, streamline operations, and enhance data-driven decision-making for companies.
-
 - **💧 Specialized Sanitation Systems:** Creating custom software for the sanitation sector, designed to monitor and manage critical infrastructure, field teams, and operational processes.
-
 - **🌐 Dynamic Web Apps & Corporate Sites:** Developing responsive, feature-rich web applications and professional websites tailored to meet specific business goals and user needs.
-
 - **⚙️ Custom Automation Tools:** Authoring custom scripts and command-line tools using Node.js and Dart to automate repetitive tasks and improve development workflows.
 
 ## 🛠️ My Tech Stack
-<p align="center">
-  Here are a few technologies I've been working with:
-</p>
+
+<div align="center">
+
+<p>Here are a few technologies I've been working with:</p>
 
 <table width="100%">
   <tr>
-    <td align="center" width="200">
-      <h4 align="center">Frontend</h4>
+    <td align="center">
+      <h4>Frontend</h4>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=js,react" />
+        <img height="40" src="https://skillicons.dev/icons?i=html,css,js,ts,react" />
       </a>
     </td>
-    <td align="center" width="200">
-      <h4 align="center">Mobile</h4>
+    <td align="center">
+      <h4>Mobile</h4>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=dart,flutter" />
+        <img height="40" src="https://skillicons.dev/icons?i=dart,flutter" />
       </a>
     </td>
-    <td align="center" width="200">
-      <h4 align="center">Backend</h4>
+    <td align="center">
+      <h4>Backend</h4>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=php,laravel,nodejs" />
+        <img height="40" src="https://skillicons.dev/icons?i=php,laravel,nodejs,py" />
       </a>
     </td>
-    <td align="center" width="200">
-      <h4 align="center">Database & Tools</h4>
+    <td align="center">
+      <h4>Database & Tools</h4>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=mysql,postgres,git,docker,postman" />
+        <img height="40" src="https://skillicons.dev/icons?i=mysql,postgres,git,docker,postman" />
       </a>
     </td>
   </tr>
 </table>
+
+</div>
 
 ## 🐍 Commits Journey
 <div align="center">
